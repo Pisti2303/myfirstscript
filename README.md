@@ -11,3 +11,4 @@ script:
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pisti2303/myfirstscript/main/OBFUSCATED_MYHUB.lua"))()
 
+Press K to open/hide the gui
